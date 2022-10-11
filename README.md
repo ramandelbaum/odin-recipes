@@ -1,0 +1,1 @@
+Simple beginner personal website with 3 recipes. Utilizing HTML5 for basic setup and navigation between the pages created. This project will be improved upon in the future with CSS styling.
